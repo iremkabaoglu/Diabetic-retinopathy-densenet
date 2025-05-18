@@ -77,4 +77,4 @@ Model, hem orijinal hem işlenmiş veri setiyle eğitilerek performans karşıla
 
 **İrem Kabaoğlu**  
 `Sakarya Üniversitesi - Bilişim Sistemleri Mühendisliği`  
-`ISE456 - Bilgisayarla Görmeye Giriş`
+`ISE456 - Bilgisayar Görmesine Giriş`
